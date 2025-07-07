@@ -1,0 +1,123 @@
+{
+  "resources": [
+    {
+      "id": "res_001",
+      "title": "Nigeria's National Adaptation Plan Framework",
+      "type": "policy",
+      "category": "Policy Documents",
+      "description": "Comprehensive framework outlining Nigeria's approach to climate adaptation planning and implementation.",
+      "language": "English",
+      "file_url": "/documents/nap-framework.pdf",
+      "file_size": "2.5 MB",
+      "published_date": "2024-01-15",
+      "author": "Federal Ministry of Environment",
+      "tags": ["NAP", "policy", "adaptation", "framework"]
+    },
+    {
+      "id": "res_002",
+      "title": "Lagos State Flood Risk Assessment",
+      "type": "report",
+      "category": "Risk Assessments",
+      "description": "Detailed analysis of flood risks in Lagos State with vulnerability mapping and adaptation recommendations.",
+      "language": "English",
+      "file_url": "/documents/lagos-flood-assessment.pdf",
+      "file_size": "4.2 MB",
+      "published_date": "2024-03-20",
+      "author": "Lagos State Ministry of Environment",
+      "tags": ["Lagos", "flooding", "risk assessment", "vulnerability"]
+    },
+    {
+      "id": "res_003",
+      "title": "Climate Change Adaptation Best Practices for Agriculture",
+      "type": "guide",
+      "category": "Best Practices",
+      "description": "Practical guide for farmers and agricultural stakeholders on climate-smart farming techniques.",
+      "language": "English",
+      "file_url": "/documents/agriculture-adaptation-guide.pdf",
+      "file_size": "1.8 MB",
+      "published_date": "2024-02-10",
+      "author": "Federal Ministry of Agriculture and Rural Development",
+      "tags": ["agriculture", "adaptation", "farming", "best practices"]
+    },
+    {
+      "id": "res_004",
+      "title": "Drought Preparedness for Northern Nigeria",
+      "type": "educational",
+      "category": "Educational Materials",
+      "description": "Community guide on drought preparedness and water conservation strategies for northern regions.",
+      "language": "English",
+      "file_url": "/documents/drought-preparedness-guide.pdf",
+      "file_size": "1.2 MB",
+      "published_date": "2024-04-05",
+      "author": "National Emergency Management Agency",
+      "tags": ["drought", "preparedness", "northern Nigeria", "water conservation"]
+    },
+    {
+      "id": "res_005",
+      "title": "Coastal Erosion Management Strategies",
+      "type": "technical",
+      "category": "Technical Reports",
+      "description": "Technical guidelines for coastal erosion management and protection infrastructure.",
+      "language": "English",
+      "file_url": "/documents/coastal-erosion-management.pdf",
+      "file_size": "3.1 MB",
+      "published_date": "2024-05-12",
+      "author": "Nigerian Institute for Oceanography and Marine Research",
+      "tags": ["coastal erosion", "infrastructure", "protection", "technical"]
+    },
+    {
+      "id": "res_006",
+      "title": "Urban Heat Island Mitigation in Nigerian Cities",
+      "type": "research",
+      "category": "Research Papers",
+      "description": "Research findings on urban heat island effects and mitigation strategies for major Nigerian cities.",
+      "language": "English",
+      "file_url": "/documents/urban-heat-island-research.pdf",
+      "file_size": "2.8 MB",
+      "published_date": "2024-06-18",
+      "author": "University of Lagos Climate Research Center",
+      "tags": ["urban planning", "heat island", "cities", "research"]
+    },
+    {
+      "id": "res_007",
+      "title": "Community-Based Adaptation Toolkit",
+      "type": "toolkit",
+      "category": "Toolkits",
+      "description": "Comprehensive toolkit for implementing community-based climate adaptation projects.",
+      "language": "English",
+      "file_url": "/documents/community-adaptation-toolkit.pdf",
+      "file_size": "2.0 MB",
+      "published_date": "2024-07-22",
+      "author": "Building Nigeria's Response to Climate Change",
+      "tags": ["community", "adaptation", "toolkit", "implementation"]
+    },
+    {
+      "id": "res_008",
+      "title": "Climate Data Interpretation Guide",
+      "type": "educational",
+      "category": "Educational Materials",
+      "description": "Guide for understanding and interpreting climate data and projections for decision-making.",
+      "language": "English",
+      "file_url": "/documents/climate-data-guide.pdf",
+      "file_size": "1.5 MB",
+      "published_date": "2024-08-14",
+      "author": "Nigerian Meteorological Agency",
+      "tags": ["climate data", "interpretation", "decision making", "guide"]
+    }
+  ],
+  "categories": [
+    "Policy Documents",
+    "Risk Assessments",
+    "Best Practices",
+    "Educational Materials",
+    "Technical Reports",
+    "Research Papers",
+    "Toolkits"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Yoruba",
+    "Igbo"
+  ]
+}

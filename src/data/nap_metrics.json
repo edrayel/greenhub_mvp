@@ -1,0 +1,123 @@
+{
+  "nap_metrics": {
+    "total_projects": 45,
+    "completed_projects": 12,
+    "ongoing_projects": 23,
+    "planned_projects": 10,
+    "budget_allocated": 500000000,
+    "budget_utilized": 325000000,
+    "stakeholders_engaged": 156,
+    "regions_covered": 12
+  },
+  "project_data": [
+    {
+      "id": "proj_001",
+      "name": "Lagos Flood Management",
+      "region": "Lagos",
+      "status": "ongoing",
+      "budget": 50000000,
+      "spent": 30000000,
+      "completion_percentage": 60,
+      "start_date": "2024-01-15",
+      "expected_completion": "2024-12-31",
+      "type": "Infrastructure"
+    },
+    {
+      "id": "proj_002",
+      "name": "Kano Drought Resilience Program",
+      "region": "Kano",
+      "status": "ongoing",
+      "budget": 35000000,
+      "spent": 20000000,
+      "completion_percentage": 45,
+      "start_date": "2024-02-01",
+      "expected_completion": "2025-01-31",
+      "type": "Agriculture"
+    },
+    {
+      "id": "proj_003",
+      "name": "Abuja Climate Data Center",
+      "region": "Abuja",
+      "status": "completed",
+      "budget": 25000000,
+      "spent": 24500000,
+      "completion_percentage": 100,
+      "start_date": "2023-06-01",
+      "expected_completion": "2024-05-31",
+      "type": "Technology"
+    },
+    {
+      "id": "proj_004",
+      "name": "Port Harcourt Coastal Protection",
+      "region": "Port Harcourt",
+      "status": "ongoing",
+      "budget": 75000000,
+      "spent": 45000000,
+      "completion_percentage": 65,
+      "start_date": "2023-09-01",
+      "expected_completion": "2024-12-31",
+      "type": "Infrastructure"
+    },
+    {
+      "id": "proj_005",
+      "name": "Ibadan Urban Heat Island Mitigation",
+      "region": "Ibadan",
+      "status": "planned",
+      "budget": 30000000,
+      "spent": 0,
+      "completion_percentage": 0,
+      "start_date": "2025-01-01",
+      "expected_completion": "2025-12-31",
+      "type": "Urban Planning"
+    },
+    {
+      "id": "proj_006",
+      "name": "Kaduna Water Security Initiative",
+      "region": "Kaduna",
+      "status": "ongoing",
+      "budget": 40000000,
+      "spent": 15000000,
+      "completion_percentage": 25,
+      "start_date": "2024-03-01",
+      "expected_completion": "2025-02-28",
+      "type": "Water Management"
+    },
+    {
+      "id": "proj_007",
+      "name": "Maiduguri Emergency Response System",
+      "region": "Maiduguri",
+      "status": "completed",
+      "budget": 20000000,
+      "spent": 19800000,
+      "completion_percentage": 100,
+      "start_date": "2023-01-01",
+      "expected_completion": "2023-12-31",
+      "type": "Emergency Management"
+    },
+    {
+      "id": "proj_008",
+      "name": "National Climate Education Program",
+      "region": "National",
+      "status": "ongoing",
+      "budget": 60000000,
+      "spent": 35000000,
+      "completion_percentage": 55,
+      "start_date": "2023-08-01",
+      "expected_completion": "2025-07-31",
+      "type": "Education"
+    }
+  ],
+  "monthly_progress": [
+    {"month": "Jan 2024", "projects_completed": 2, "budget_spent": 45000000},
+    {"month": "Feb 2024", "projects_completed": 1, "budget_spent": 38000000},
+    {"month": "Mar 2024", "projects_completed": 3, "budget_spent": 52000000},
+    {"month": "Apr 2024", "projects_completed": 2, "budget_spent": 41000000},
+    {"month": "May 2024", "projects_completed": 1, "budget_spent": 35000000},
+    {"month": "Jun 2024", "projects_completed": 2, "budget_spent": 48000000},
+    {"month": "Jul 2024", "projects_completed": 1, "budget_spent": 39000000},
+    {"month": "Aug 2024", "projects_completed": 0, "budget_spent": 32000000},
+    {"month": "Sep 2024", "projects_completed": 0, "budget_spent": 28000000},
+    {"month": "Oct 2024", "projects_completed": 0, "budget_spent": 31000000},
+    {"month": "Nov 2024", "projects_completed": 0, "budget_spent": 29000000}
+  ]
+}

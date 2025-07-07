@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "username": "admin@dcc.gov.ng",
+      "password": "admin123",
+      "role": "admin",
+      "name": "System Administrator",
+      "organization": "Department of Climate Change",
+      "last_login": "2024-12-01T10:30:00Z"
+    },
+    {
+      "id": "user_002",
+      "username": "gov.official@climate.gov.ng",
+      "password": "gov123",
+      "role": "government",
+      "name": "Dr. Amina Hassan",
+      "organization": "Federal Ministry of Environment",
+      "last_login": "2024-11-30T14:20:00Z"
+    },
+    {
+      "id": "user_003",
+      "username": "researcher@unilag.edu.ng",
+      "password": "research123",
+      "role": "researcher",
+      "name": "Prof. Chukwuma Okafor",
+      "organization": "University of Lagos - Climate Research Center",
+      "last_login": "2024-11-29T09:15:00Z"
+    },
+    {
+      "id": "user_004",
+      "username": "public.user@gmail.com",
+      "password": "public123",
+      "role": "public",
+      "name": "Fatima Abdullahi",
+      "organization": "Civil Society Organization",
+      "last_login": "2024-11-28T16:45:00Z"
+    },
+    {
+      "id": "user_005",
+      "username": "lagos.official@lagosstate.gov.ng",
+      "password": "lagos123",
+      "role": "government",
+      "name": "Eng. Babatunde Adebayo",
+      "organization": "Lagos State Ministry of Environment",
+      "last_login": "2024-12-01T08:30:00Z"
+    },
+    {
+      "id": "user_006",
+      "username": "climate.researcher@abu.edu.ng",
+      "password": "abu123",
+      "role": "researcher",
+      "name": "Dr. Hauwa Mohammed",
+      "organization": "Ahmadu Bello University - Geography Department",
+      "last_login": "2024-11-27T11:20:00Z"
+    }
+  ]
+}

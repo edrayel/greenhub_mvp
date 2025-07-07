@@ -1,0 +1,108 @@
+{
+  "climate_data": [
+    {
+      "id": "cd_001",
+      "region": "Lagos",
+      "hazard_type": "flooding",
+      "data_type": "rainfall",
+      "value": 1200,
+      "unit": "mm/year",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 6.5244, "lng": 3.3792}
+    },
+    {
+      "id": "cd_002",
+      "region": "Kano",
+      "hazard_type": "drought",
+      "data_type": "rainfall",
+      "value": 450,
+      "unit": "mm/year",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 12.0022, "lng": 8.5920}
+    },
+    {
+      "id": "cd_003",
+      "region": "Abuja",
+      "hazard_type": "temperature",
+      "data_type": "temperature",
+      "value": 28.5,
+      "unit": "°C",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 9.0765, "lng": 7.3986}
+    },
+    {
+      "id": "cd_004",
+      "region": "Lagos",
+      "hazard_type": "temperature",
+      "data_type": "temperature",
+      "value": 32.1,
+      "unit": "°C",
+      "time_period": "2030",
+      "projection_year": 2030,
+      "source": "CMIP6",
+      "last_updated": "2024-11-15",
+      "coordinates": {"lat": 6.5244, "lng": 3.3792}
+    },
+    {
+      "id": "cd_005",
+      "region": "Port Harcourt",
+      "hazard_type": "flooding",
+      "data_type": "rainfall",
+      "value": 2100,
+      "unit": "mm/year",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 4.8156, "lng": 7.0498}
+    },
+    {
+      "id": "cd_006",
+      "region": "Kano",
+      "hazard_type": "drought",
+      "data_type": "rainfall",
+      "value": 380,
+      "unit": "mm/year",
+      "time_period": "2050",
+      "projection_year": 2050,
+      "source": "World Bank CCKP",
+      "last_updated": "2024-11-20",
+      "coordinates": {"lat": 12.0022, "lng": 8.5920}
+    },
+    {
+      "id": "cd_007",
+      "region": "Ibadan",
+      "hazard_type": "temperature",
+      "data_type": "temperature",
+      "value": 26.8,
+      "unit": "°C",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 7.3775, "lng": 3.9470}
+    },
+    {
+      "id": "cd_008",
+      "region": "Kaduna",
+      "hazard_type": "flooding",
+      "data_type": "rainfall",
+      "value": 1050,
+      "unit": "mm/year",
+      "time_period": "2020-2024",
+      "projection_year": null,
+      "source": "NiMet",
+      "last_updated": "2024-12-01",
+      "coordinates": {"lat": 10.5222, "lng": 7.4383}
+    }
+  ]
+}
