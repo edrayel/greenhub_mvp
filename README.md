@@ -54,8 +54,8 @@ GreenHub MVP is a React-based web application that provides climate data visuali
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd greehub_mvp
+git clone https://github.com/edrayel/greenhub_mvp.git
+cd greenhub_mvp
 ```
 
 2. Install dependencies:
@@ -171,7 +171,7 @@ This project is private and proprietary.
 
 ## Support
 
-For support and questions, please contact the development team.
+For support and questions, contact edward@edwardrajah.com
 
 ---
 
